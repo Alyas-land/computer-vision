@@ -45,5 +45,5 @@ This project demonstrates how to stream live video from a webcam (or mobile came
   ```
 5. Open your browser and visit:
    ```bash
-   http://127.0.0.1:5000
+   http://127.0.0.1:port
    ```
