@@ -3,8 +3,8 @@
 A simple **real-time face detection web app** built with **Flask** and **OpenCV**.  
 This project demonstrates how to stream live video from a webcam (or mobile camera as a webcam) into a browser and detect faces on the fly.  
 
+---
 ![Computer Vision Preview](preview.webp)
-
 ---
 
 ## ✨ Features
