@@ -5,7 +5,7 @@ This project demonstrates how to stream live video from a webcam (or mobile came
 
 ---
 ![Computer Vision Preview](preview.webp)
----
+
 
 ## ✨ Features
 
